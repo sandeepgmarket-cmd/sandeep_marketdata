@@ -10,7 +10,7 @@ sr| Date       | Stock    | Setup              | Entry  | Stop Loss | Target | E
 | ------------------------------------------ | ------ |
 | Monthly RSI > 60                           | ✅      |
 | Weekly RSI > 60                            | ✅      |
-| Daily RSI > 60                             | ✅      |
+| Daily RSI > 70                             | ✅      |
 | EMA 5 > EMA 10 > EMA 20 > EMA 50 > EMA 100 | ✅      |
 | Trading Above Previous Day High (PDH)      | ✅      |
 | Volume Expansion                           | ✅      |
