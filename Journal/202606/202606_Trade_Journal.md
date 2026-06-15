@@ -2,7 +2,7 @@
 
 sr| Date       | Stock    | Setup              | Entry  | Stop Loss | Target | Exit   | P/L % | Result |Comment
 00| ---------- | -------- | ------------------ | ------ | --------- | ------ | ------ | ----- | ------ |
-01| 2026-06-13 | RELIANCE | VCP + PDH Breakout | ₹1,520 | ₹1,485    | ₹1,600 | ₹1,578 | +3.8% | Winner |
+01| 2026-06-15 | Nuvama   | W Breakout         | ₹1625 | ₹1615    | ₹1674.90| ₹1674.90| +3.8% | Winner |RSI>20 and w breakout
 
 ## Trade Checklist
 
